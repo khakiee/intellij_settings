@@ -4,17 +4,17 @@
     <property name="created">2022-08-11T11:13:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.4.0.0</property>
-    <property name="modified">2022-09-16T15:56:46</property>
+    <property name="modified">2022-09-19T12:57:02</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="D2Coding" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
